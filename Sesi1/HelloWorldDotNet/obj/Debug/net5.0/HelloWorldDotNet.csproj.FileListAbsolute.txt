@@ -1,0 +1,16 @@
+E:\OCBC\Sesi1\HelloWorldDotNet\bin\Debug\net5.0\HelloWorldDotNet.exe
+E:\OCBC\Sesi1\HelloWorldDotNet\bin\Debug\net5.0\HelloWorldDotNet.deps.json
+E:\OCBC\Sesi1\HelloWorldDotNet\bin\Debug\net5.0\HelloWorldDotNet.runtimeconfig.json
+E:\OCBC\Sesi1\HelloWorldDotNet\bin\Debug\net5.0\HelloWorldDotNet.runtimeconfig.dev.json
+E:\OCBC\Sesi1\HelloWorldDotNet\bin\Debug\net5.0\HelloWorldDotNet.dll
+E:\OCBC\Sesi1\HelloWorldDotNet\bin\Debug\net5.0\ref\HelloWorldDotNet.dll
+E:\OCBC\Sesi1\HelloWorldDotNet\bin\Debug\net5.0\HelloWorldDotNet.pdb
+E:\OCBC\Sesi1\HelloWorldDotNet\obj\Debug\net5.0\HelloWorldDotNet.csproj.AssemblyReference.cache
+E:\OCBC\Sesi1\HelloWorldDotNet\obj\Debug\net5.0\HelloWorldDotNet.GeneratedMSBuildEditorConfig.editorconfig
+E:\OCBC\Sesi1\HelloWorldDotNet\obj\Debug\net5.0\HelloWorldDotNet.AssemblyInfoInputs.cache
+E:\OCBC\Sesi1\HelloWorldDotNet\obj\Debug\net5.0\HelloWorldDotNet.AssemblyInfo.cs
+E:\OCBC\Sesi1\HelloWorldDotNet\obj\Debug\net5.0\HelloWorldDotNet.csproj.CoreCompileInputs.cache
+E:\OCBC\Sesi1\HelloWorldDotNet\obj\Debug\net5.0\HelloWorldDotNet.dll
+E:\OCBC\Sesi1\HelloWorldDotNet\obj\Debug\net5.0\ref\HelloWorldDotNet.dll
+E:\OCBC\Sesi1\HelloWorldDotNet\obj\Debug\net5.0\HelloWorldDotNet.pdb
+E:\OCBC\Sesi1\HelloWorldDotNet\obj\Debug\net5.0\HelloWorldDotNet.genruntimeconfig.cache
