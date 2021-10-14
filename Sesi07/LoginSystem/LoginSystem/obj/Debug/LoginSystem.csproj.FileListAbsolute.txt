@@ -1,0 +1,70 @@
+E:\VS Repo\LoginSystem\LoginSystem\bin\Debug\LoginSystem.exe.config
+E:\VS Repo\LoginSystem\LoginSystem\bin\Debug\LoginSystem.exe
+E:\VS Repo\LoginSystem\LoginSystem\bin\Debug\LoginSystem.pdb
+E:\VS Repo\LoginSystem\LoginSystem\bin\Debug\BouncyCastle.Crypto.dll
+E:\VS Repo\LoginSystem\LoginSystem\bin\Debug\Google.Protobuf.dll
+E:\VS Repo\LoginSystem\LoginSystem\bin\Debug\K4os.Compression.LZ4.dll
+E:\VS Repo\LoginSystem\LoginSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\VS Repo\LoginSystem\LoginSystem\bin\Debug\K4os.Hash.xxHash.dll
+E:\VS Repo\LoginSystem\LoginSystem\bin\Debug\MySql.Data.dll
+E:\VS Repo\LoginSystem\LoginSystem\bin\Debug\System.Buffers.dll
+E:\VS Repo\LoginSystem\LoginSystem\bin\Debug\System.Memory.dll
+E:\VS Repo\LoginSystem\LoginSystem\bin\Debug\System.Numerics.Vectors.dll
+E:\VS Repo\LoginSystem\LoginSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\VS Repo\LoginSystem\LoginSystem\bin\Debug\Google.Protobuf.pdb
+E:\VS Repo\LoginSystem\LoginSystem\bin\Debug\Google.Protobuf.xml
+E:\VS Repo\LoginSystem\LoginSystem\bin\Debug\K4os.Compression.LZ4.xml
+E:\VS Repo\LoginSystem\LoginSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\VS Repo\LoginSystem\LoginSystem\bin\Debug\K4os.Hash.xxHash.xml
+E:\VS Repo\LoginSystem\LoginSystem\bin\Debug\System.Buffers.xml
+E:\VS Repo\LoginSystem\LoginSystem\bin\Debug\System.Memory.xml
+E:\VS Repo\LoginSystem\LoginSystem\bin\Debug\System.Numerics.Vectors.xml
+E:\VS Repo\LoginSystem\LoginSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\VS Repo\LoginSystem\LoginSystem\obj\Debug\LoginSystem.csproj.AssemblyReference.cache
+E:\VS Repo\LoginSystem\LoginSystem\obj\Debug\LoginSystem.Form1.resources
+E:\VS Repo\LoginSystem\LoginSystem\obj\Debug\LoginSystem.Properties.Resources.resources
+E:\VS Repo\LoginSystem\LoginSystem\obj\Debug\LoginSystem.Register.resources
+E:\VS Repo\LoginSystem\LoginSystem\obj\Debug\LoginSystem.csproj.GenerateResource.cache
+E:\VS Repo\LoginSystem\LoginSystem\obj\Debug\LoginSystem.csproj.CoreCompileInputs.cache
+E:\VS Repo\LoginSystem\LoginSystem\obj\Debug\LoginSystem.exe
+E:\VS Repo\LoginSystem\LoginSystem\obj\Debug\LoginSystem.pdb
+E:\VS Repo\LoginSystem\LoginSystem\bin\Debug\Renci.SshNet.Async.dll
+E:\VS Repo\LoginSystem\LoginSystem\bin\Debug\Renci.SshNet.dll
+E:\VS Repo\LoginSystem\LoginSystem\bin\Debug\Renci.SshNet.xml
+E:\VS Repo\LoginSystem\LoginSystem\bin\Debug\Renci.SshNet.Async.xml
+E:\VS Repo\LoginSystem\LoginSystem\obj\Debug\LoginSystem.FormData.resources
+E:\OCBC\Sesi07\LoginSystem\LoginSystem\bin\Debug\LoginSystem.exe.config
+E:\OCBC\Sesi07\LoginSystem\LoginSystem\bin\Debug\LoginSystem.exe
+E:\OCBC\Sesi07\LoginSystem\LoginSystem\bin\Debug\LoginSystem.pdb
+E:\OCBC\Sesi07\LoginSystem\LoginSystem\bin\Debug\BouncyCastle.Crypto.dll
+E:\OCBC\Sesi07\LoginSystem\LoginSystem\bin\Debug\Google.Protobuf.dll
+E:\OCBC\Sesi07\LoginSystem\LoginSystem\bin\Debug\K4os.Compression.LZ4.dll
+E:\OCBC\Sesi07\LoginSystem\LoginSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\OCBC\Sesi07\LoginSystem\LoginSystem\bin\Debug\K4os.Hash.xxHash.dll
+E:\OCBC\Sesi07\LoginSystem\LoginSystem\bin\Debug\MySql.Data.dll
+E:\OCBC\Sesi07\LoginSystem\LoginSystem\bin\Debug\Renci.SshNet.Async.dll
+E:\OCBC\Sesi07\LoginSystem\LoginSystem\bin\Debug\Renci.SshNet.dll
+E:\OCBC\Sesi07\LoginSystem\LoginSystem\bin\Debug\System.Buffers.dll
+E:\OCBC\Sesi07\LoginSystem\LoginSystem\bin\Debug\System.Memory.dll
+E:\OCBC\Sesi07\LoginSystem\LoginSystem\bin\Debug\System.Numerics.Vectors.dll
+E:\OCBC\Sesi07\LoginSystem\LoginSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\OCBC\Sesi07\LoginSystem\LoginSystem\bin\Debug\Google.Protobuf.pdb
+E:\OCBC\Sesi07\LoginSystem\LoginSystem\bin\Debug\Google.Protobuf.xml
+E:\OCBC\Sesi07\LoginSystem\LoginSystem\bin\Debug\K4os.Compression.LZ4.xml
+E:\OCBC\Sesi07\LoginSystem\LoginSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\OCBC\Sesi07\LoginSystem\LoginSystem\bin\Debug\K4os.Hash.xxHash.xml
+E:\OCBC\Sesi07\LoginSystem\LoginSystem\bin\Debug\Renci.SshNet.xml
+E:\OCBC\Sesi07\LoginSystem\LoginSystem\bin\Debug\Renci.SshNet.Async.xml
+E:\OCBC\Sesi07\LoginSystem\LoginSystem\bin\Debug\System.Buffers.xml
+E:\OCBC\Sesi07\LoginSystem\LoginSystem\bin\Debug\System.Memory.xml
+E:\OCBC\Sesi07\LoginSystem\LoginSystem\bin\Debug\System.Numerics.Vectors.xml
+E:\OCBC\Sesi07\LoginSystem\LoginSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\OCBC\Sesi07\LoginSystem\LoginSystem\obj\Debug\LoginSystem.csproj.AssemblyReference.cache
+E:\OCBC\Sesi07\LoginSystem\LoginSystem\obj\Debug\LoginSystem.Form1.resources
+E:\OCBC\Sesi07\LoginSystem\LoginSystem\obj\Debug\LoginSystem.FormData.resources
+E:\OCBC\Sesi07\LoginSystem\LoginSystem\obj\Debug\LoginSystem.Properties.Resources.resources
+E:\OCBC\Sesi07\LoginSystem\LoginSystem\obj\Debug\LoginSystem.Register.resources
+E:\OCBC\Sesi07\LoginSystem\LoginSystem\obj\Debug\LoginSystem.csproj.GenerateResource.cache
+E:\OCBC\Sesi07\LoginSystem\LoginSystem\obj\Debug\LoginSystem.csproj.CoreCompileInputs.cache
+E:\OCBC\Sesi07\LoginSystem\LoginSystem\obj\Debug\LoginSystem.exe
+E:\OCBC\Sesi07\LoginSystem\LoginSystem\obj\Debug\LoginSystem.pdb
