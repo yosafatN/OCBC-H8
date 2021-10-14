@@ -45,12 +45,12 @@ namespace LoginSystem
             this.btnSimpan = new System.Windows.Forms.Button();
             this.btnHapus = new System.Windows.Forms.Button();
             this.btnEdit = new System.Windows.Forms.Button();
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.dataGrid = new System.Windows.Forms.DataGridView();
             this.id = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.nama = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.alamat = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.handphone = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGrid)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -193,20 +193,20 @@ namespace LoginSystem
             this.btnEdit.Text = "Edit";
             this.btnEdit.UseVisualStyleBackColor = true;
             // 
-            // dataGridView1
+            // dataGrid
             // 
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.dataGrid.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGrid.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.id,
             this.nama,
             this.alamat,
             this.handphone});
-            this.dataGridView1.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.dataGridView1.Location = new System.Drawing.Point(0, 300);
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(576, 150);
-            this.dataGridView1.TabIndex = 16;
-            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
+            this.dataGrid.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.dataGrid.Location = new System.Drawing.Point(0, 300);
+            this.dataGrid.Name = "dataGrid";
+            this.dataGrid.Size = new System.Drawing.Size(576, 150);
+            this.dataGrid.TabIndex = 16;
+            this.dataGrid.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
             // id
             // 
@@ -233,7 +233,7 @@ namespace LoginSystem
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(576, 450);
-            this.Controls.Add(this.dataGridView1);
+            this.Controls.Add(this.dataGrid);
             this.Controls.Add(this.btnEdit);
             this.Controls.Add(this.btnHapus);
             this.Controls.Add(this.btnSimpan);
@@ -252,7 +252,7 @@ namespace LoginSystem
             this.Controls.Add(this.label1);
             this.Name = "FormData";
             this.Text = "Form2";
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGrid)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -276,7 +276,7 @@ namespace LoginSystem
         private System.Windows.Forms.Button btnSimpan;
         private System.Windows.Forms.Button btnHapus;
         private System.Windows.Forms.Button btnEdit;
-        private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.DataGridView dataGrid;
         private System.Windows.Forms.DataGridViewTextBoxColumn id;
         private System.Windows.Forms.DataGridViewTextBoxColumn nama;
         private System.Windows.Forms.DataGridViewTextBoxColumn alamat;

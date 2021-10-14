@@ -39,9 +39,12 @@ namespace LoginSystem
             string queryBuilder = $"SELECT * FROM `user_info` where username ='{textUsername.Text}' and password = '{textPassword.Text}'";
             Console.WriteLine(queryBuilder);
             db.ExecuteSelect(queryBuilder);
+            Console.WriteLine("RESULT: " + db.Count());
             if (db.Count() == 1)
             {
-                MessageBox.Show("Success You will Login as " + db.Result(0, "names"));
+                Console.WriteLine("Login");
+                FormData formData = new FormData();
+                formData.Show();
             }
             else
             {

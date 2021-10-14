@@ -120,6 +120,7 @@ namespace LoginSystem
                 MySqlDataReader reader;
                 MySqlCommand cmd = new MySqlCommand(sql, connection);
                 reader = cmd.ExecuteReader();
+                Console.WriteLine(reader.ToString());
                 return reader;
             }
             catch (Exception ex)
@@ -128,6 +129,7 @@ namespace LoginSystem
             }
             return null;
         }
+
 
         public int Count()
         {
