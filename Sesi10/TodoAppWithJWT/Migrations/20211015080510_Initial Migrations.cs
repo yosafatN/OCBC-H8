@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace TodoApp.Migrations
+namespace TodoAppWithJWT.Migrations
 {
     public partial class InitialMigrations : Migration
     {

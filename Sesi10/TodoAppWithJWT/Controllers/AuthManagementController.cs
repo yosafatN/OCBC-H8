@@ -9,11 +9,11 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
-using TodoApp.Configuration;
-using TodoApp.Models.DTOs.Requests;
-using TodoApp.Models.DTOs.Respones;
+using TodoAppWithJWT.Configuration;
+using TodoAppWithJWT.Models.DTOs.Requests;
+using TodoAppWithJWT.Models.DTOs.Respones;
 
-namespace TodoApp.Configuration
+namespace TodoAppWithJWT.Configuration
 {
     [Route("api/[controller]")]
     [ApiController]

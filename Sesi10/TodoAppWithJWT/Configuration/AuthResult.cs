@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace TodoApp.Configuration
+namespace TodoAppWithJWT.Configuration
 {
     public class AuthResult
     {

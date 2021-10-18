@@ -1,8 +1,8 @@
 using Microsoft.EntityFrameworkCore;
-using TodoApp.Models;
+using TodoAppWithJWT.Models;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
-namespace TodoApp.Data
+namespace TodoAppWithJWT.Data
 {
     public class ApiDbContext : IdentityDbContext
     {

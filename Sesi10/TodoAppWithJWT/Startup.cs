@@ -11,15 +11,15 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
-using TodoApp.Data;
-using TodoApp.Configuration;
+using TodoAppWithJWT.Data;
+using TodoAppWithJWT.Configuration;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using System.Text;
 using Microsoft.IdentityModel.Tokens;
 using Microsoft.AspNetCore.Identity;
 
-namespace TodoApp
+namespace TodoAppWithJWT
 {
     public class Startup
     {
@@ -65,7 +65,8 @@ namespace TodoApp
 
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "TodoApp", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "TodoAppWithJWT", Version = "v1" });
+                c.OperationFilter<AuthorizationHeaderParameterOperationFilter>();
             });
         }
 
@@ -84,6 +85,8 @@ namespace TodoApp
             app.UseRouting();
 
             app.UseAuthorization();
+
+            app.UseAuthentication();
 
             app.UseEndpoints(endpoints =>
             {
