@@ -1,4 +1,5 @@
 using System.Threading.Tasks;
+using System.Dynamic;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using TodoAppWithJWT.Data;
@@ -35,6 +36,17 @@ namespace TodoAppWithJWT.Controllers
                 await _context.item.AddAsync(data);
                 await _context.SaveChangesAsync();
 
+                var result = CreatedAtAction("GetItem", new { data.Id }, data);
+
+
+                /*dynamic flexible = new ExpandoObject();
+        flexible.Int = 3;
+        flexible.String = "hi";
+
+        var dictionary = (IDictionary<string, object>)flexible;
+        dictionary.Add("Bool", false);
+
+        var serialized = JsonConvert.SerializeObject(dictionary); // {"Int":3,"String":"hi","Bool":false}*/
                 return CreatedAtAction("GetItem", new { data.Id }, data);
             }
 
