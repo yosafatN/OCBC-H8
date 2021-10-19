@@ -1,0 +1,11 @@
+E:\OCBC\Sesi13\CoreWebAPI\bin\Release\net5.0\publish\CoreWebAPI.exe
+E:\OCBC\Sesi13\CoreWebAPI\bin\Release\net5.0\publish\appsettings.Development.json
+E:\OCBC\Sesi13\CoreWebAPI\bin\Release\net5.0\publish\appsettings.json
+E:\OCBC\Sesi13\CoreWebAPI\bin\Release\net5.0\publish\CoreWebAPI.dll
+E:\OCBC\Sesi13\CoreWebAPI\bin\Release\net5.0\publish\CoreWebAPI.deps.json
+E:\OCBC\Sesi13\CoreWebAPI\bin\Release\net5.0\publish\CoreWebAPI.runtimeconfig.json
+E:\OCBC\Sesi13\CoreWebAPI\bin\Release\net5.0\publish\CoreWebAPI.pdb
+E:\OCBC\Sesi13\CoreWebAPI\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+E:\OCBC\Sesi13\CoreWebAPI\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+E:\OCBC\Sesi13\CoreWebAPI\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\OCBC\Sesi13\CoreWebAPI\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
