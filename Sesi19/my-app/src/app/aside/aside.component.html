@@ -1,0 +1,7 @@
+<h2>People</h2>
+
+<ul *ngFor="let person of people">
+    <li [style.color] = getBackgroundColor(person)>
+        {{person.name}}, {{person.country}}
+    </li>
+</ul>

@@ -1,0 +1,16 @@
+.text-red {
+    color: red;
+}
+
+.text-green {
+    color: green;
+}
+
+.text-blue {
+    color: blue;
+}
+
+li {
+    font-family: 'Times New Roman';
+    font-weight: bold;
+}
