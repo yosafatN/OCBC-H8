@@ -13,7 +13,7 @@ export class TodoListComponent implements OnInit {
 
   todos: Todo[] = []
   editActive = -1
-  editText: string | undefined = ''
+  editText: string = ''
   snackBarDuration = 1500
 
   ngOnInit(): void {
@@ -56,7 +56,7 @@ export class TodoListComponent implements OnInit {
 
   activateEdit(index: number) {
     this.editActive = index
-    this.editText = this.todos.find((v,i) => i === index)?.content
+    this.editText = this.todos.find((v,i) => i === index)!.content
   }
 
   saveEdit() {

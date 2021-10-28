@@ -30,7 +30,7 @@
             autofocus
         />
 
-        <button class="btn btn-primary btn-sm completed {{(editText == '' ? 'disabled' : '')}}" (click)="saveEdit()">
+        <button class="btn btn-primary btn-sm completed {{(editText == '' || editText.length < 3   ? 'disabled' : '')}}" (click)="saveEdit()">
             <i class="bi bi-check-circle"></i>
         </button>
     </li>

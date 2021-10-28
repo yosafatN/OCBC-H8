@@ -1,4 +1,4 @@
 export interface Todo {
-    content: string | undefined;
+    content: string;
     completed: boolean;
 }
